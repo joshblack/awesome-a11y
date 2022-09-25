@@ -2,6 +2,13 @@
 
 > A personal collection of resources, notes, and references for web accessibility
 
+## Table of Contents
+
+- [Components](#components)
+- [Patterns](#patterns)
+- [Attributes](#attributes)
+- [Links & Resources](#links--resources)
+
 ## Components
 
 This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
@@ -41,6 +48,23 @@ This section contains information around specific components and how they might 
 ## Patterns
 
 This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
+
+## Attributes
+
+This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
+
+### The `title` attribute
+
+Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
+
+> Relying on the title attribute is currently discouraged as many user agents do not expose the attribute in an accessible manner as required by this specification (e.g., requiring a pointing device such as a mouse to cause a tooltip to appear, which excludes keyboard-only users and touch-only users, such as anyone with a modern phone or tablet).
+
+https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
+
+**Links & Resources**
+
+- https://www.tpgi.com/using-the-html-title-attribute-updated/
+- https://developer.yoast.com/blog/dont-rely-title-attribute/
 
 ## Links & Resources
 
