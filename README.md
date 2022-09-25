@@ -156,6 +156,9 @@ https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
 
 This section contains information around different concepts as they relate to web accessibility. These are broader techniques that should be supported or considered when building for the web.
 
+- [Forced Colors Mode](#forced-colors-mode)
+- [Speech Recognition](#speech-recognition)
+
 ### Forced Colors Mode
 
 [Spec](https://w3c.github.io/csswg-drafts/css-color-adjust-1/#forced-colors-mode)
@@ -176,6 +179,33 @@ This section contains information around different concepts as they relate to we
 - https://a11ytalks.com/posts/2022-APR
 - https://polypane.app/blog/forced-colors-explained-a-practical-guide/
 - https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/
+
+### Speech Recognition
+
+> Software that helps to control the device with one's voice
+
+**Tools**
+
+| Tool | Operating System | Integration |
+| :--- | :--------------- | :---------- |
+| Dragon Naturally Speaking | Windows | Third-party |
+| Speech Recognition | Windows | Built-in |
+| Voice Control | macOS | Built-in |
+| Voice Control | iOS | Built-in |
+| Voice Access | Android | Built-in |
+
+**Interaction Patterns**
+
+- Dictation command
+- Voice command
+- Mouse Grids
+- Show labels or names
+
+**Techniques**
+
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=2g9X-QPgZgo
 
 ## Abbreviations
 
