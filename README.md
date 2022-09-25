@@ -4,11 +4,35 @@
 
 ## Table of Contents
 
+- [Links & Resources](#links--resources)
 - [Components](#components)
 - [Patterns](#patterns)
 - [Attributes](#attributes)
 - [Concepts](#concepts)
-- [Links & Resources](#links--resources)
+- [Abbreviations](#abbreviations)
+
+## Links & Resources
+
+**Resources**
+
+- [WAI ARIA](https://w3c.github.io/aria/)
+- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
+- [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG21/Techniques/)
+- [a11ysupport](https://a11ysupport.io/)
+  - Check the support of various features across screen readers, browsers, and devices
+- https://github.com/scottaohara/accessible_components
+
+**Blogs**
+
+- https://adrianroselli.com/
+- https://sarahmhigley.com/
+- https://www.scottohara.me/
+
+**Tools**
+
+- [Accessibility Insights](https://accessibilityinsights.io/)
+- [axe](https://www.deque.com/axe/)
+- [Equal Access Toolkit](https://www.ibm.com/able/toolkit)
 
 ## Components
 
@@ -152,29 +176,6 @@ This section contains information around different concepts as they relate to we
 - https://a11ytalks.com/posts/2022-APR
 - https://polypane.app/blog/forced-colors-explained-a-practical-guide/
 - https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/
-
-## Links & Resources
-
-**Resources**
-
-- [WAI ARIA](https://w3c.github.io/aria/)
-- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
-- [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG21/Techniques/)
-- [a11ysupport](https://a11ysupport.io/)
-  - Check the support of various features across screen readers, browsers, and devices
-- https://github.com/scottaohara/accessible_components
-
-**Blogs**
-
-- https://adrianroselli.com/
-- https://sarahmhigley.com/
-- https://www.scottohara.me/
-
-**Tools**
-
-- [Accessibility Insights](https://accessibilityinsights.io/)
-- [axe](https://www.deque.com/axe/)
-- [Equal Access Toolkit](https://www.ibm.com/able/toolkit)
 
 ## Abbreviations
 
