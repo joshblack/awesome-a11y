@@ -88,9 +88,23 @@ This section contains information around specific components and how they might 
 
 This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
 
+### Disclosure
+
+> A disclosure is a widget that enables content to be either collapsed (hidden) or expanded (visible).
+
+[Source](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/)
+
+**Links & Resources**
+
+- https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
+- https://adrianroselli.com/2020/05/disclosure-widgets.html
+
 ## Attributes
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
+
+- [The `title` attribute](#the-title-attribute)
+- [The `placeholder` attribute](#the-placeholder-attribute)
 
 ### The `title` attribute
 
