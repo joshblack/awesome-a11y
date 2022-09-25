@@ -25,11 +25,22 @@ This section contains information around specific components and how they might 
 
 [APG](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/)
 
+**Links & Resources**
+
+- https://github.com/scottaohara/a11y_accordions
+
+### Breadcrumb
+
+**Links & Resources**
+
+- https://github.com/scottaohara/a11y_breadcrumbs
+
 ### Link
 
-**Techniques**
+**Links & Resources**
 
 - [Disabling a link](https://www.scottohara.me/blog/2021/05/28/disabled-links.html)
+- https://github.com/scottaohara/aria_links
 
 ### Modal Dialog
 
@@ -49,6 +60,7 @@ This section contains information around specific components and how they might 
 
 - https://www.youtube.com/watch?v=W5YAaLLBKhQ
 - https://adrianroselli.com/2020/01/defining-toast-messages.html
+- https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
 
 ### Tooltip
 
@@ -127,6 +139,7 @@ This section contains information around different concepts as they relate to we
 - [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG21/Techniques/)
 - [a11ysupport](https://a11ysupport.io/)
   - Check the support of various features across screen readers, browsers, and devices
+- https://github.com/scottaohara/accessible_components
 
 **Blogs**
 
