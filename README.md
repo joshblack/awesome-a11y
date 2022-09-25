@@ -14,11 +14,11 @@ This section contains information around specific components and how they might 
 
 **Design Systems**
 
-| Name | Guidelines | CSS | Web Components | React | Angular |
-| :--- | :--------- | :-- | :------------- | :---- | :------ |
-| [Carbon Design System](https://carbondesignsystem.com/) | [Link](https://carbondesignsystem.com/components/tree-view/usage/) | | | [Link](https://react.carbondesignsystem.com/?path=/story/components-treeview--default) |
-| [Clarity Design System](https://clarity.design/) | | | | | [Link](https://clarity.design/documentation/tree-view) |
-| [Spectrum](https://spectrum.adobe.com/) | | [Link](https://opensource.adobe.com/spectrum-css/treeview.html) | | | |
+| Name                                                    | Guidelines                                                         | CSS                                                             | Web Components | React                                                                                  | Angular                                                |
+| :------------------------------------------------------ | :----------------------------------------------------------------- | :-------------------------------------------------------------- | :------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| [Carbon Design System](https://carbondesignsystem.com/) | [Link](https://carbondesignsystem.com/components/tree-view/usage/) |                                                                 |                | [Link](https://react.carbondesignsystem.com/?path=/story/components-treeview--default) |
+| [Clarity Design System](https://clarity.design/)        |                                                                    |                                                                 |                |                                                                                        | [Link](https://clarity.design/documentation/tree-view) |
+| [Spectrum](https://spectrum.adobe.com/)                 |                                                                    | [Link](https://opensource.adobe.com/spectrum-css/treeview.html) |                |                                                                                        |                                                        |
 
 ## Patterns
 
