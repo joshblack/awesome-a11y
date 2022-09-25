@@ -105,6 +105,15 @@ https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
 - https://www.tpgi.com/using-the-html-title-attribute-updated/
 - https://developer.yoast.com/blog/dont-rely-title-attribute/
 
+### The `placeholder` attribute
+
+**Links & Resources**
+
+- https://www.nngroup.com/articles/form-design-placeholders/
+- https://www.maxability.co.in/2016/01/03/placeholder-attribute-and-why-it-is-not-accessible/
+- https://www.deque.com/blog/accessible-forms-the-problem-with-placeholders/
+- https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Placeholder_Research
+
 ## Concepts
 
 This section contains information around different concepts as they relate to web accessibility. These are broader techniques that should be supported or considered when building for the web.
