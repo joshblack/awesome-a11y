@@ -24,7 +24,6 @@ This section contains information around specific components and how they might 
 - https://github.com/scottaohara/a11y_tooltips
 - https://www.youtube.com/watch?v=lb0_v7D4kbs
 
-
 ### Tree View
 
 **Discussions**
