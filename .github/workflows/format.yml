@@ -23,7 +23,7 @@ jobs:
           node-version: '16.x'
       - name: Format files
         run: |
-          npx prettier --write '**/*.{md,yml}'
+          npx prettier --write '**/*.md'
       - name: Sync to `main`
         run: |
           if [ -n "$(git status --porcelain)" ]; then
