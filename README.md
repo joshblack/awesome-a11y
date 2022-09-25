@@ -14,10 +14,10 @@ This section contains information around specific components and how they might 
 
 **Design Systems**
 
-- [Spectrum](https://spectrum.adobe.com/)
-  - [Spectrum CSS](https://opensource.adobe.com/spectrum-css/treeview.html)
-- [Clarity Design System](https://clarity.design/)
-  - [Implementation](https://clarity.design/documentation/tree-view)
+| Name | CSS | Web Components | React | Angular |
+| :--- | :-- | :------------- | :---- | :------ |
+| [Spectrum](https://spectrum.adobe.com/) | [Link](https://opensource.adobe.com/spectrum-css/treeview.html) | | | |
+| [Clarity Design System](https://clarity.design/) | | | | [Link](https://clarity.design/documentation/tree-view) |
 
 ## Patterns
 
