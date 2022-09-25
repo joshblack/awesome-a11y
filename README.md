@@ -44,8 +44,8 @@ This section contains information around ways in which a component, or set of co
 
 ## Abbreviations
 
-| Abbrevation | Word or phrase |
-| :---------- | :------------- |
-| APG         | Authoring Practices Guide, see [Link](https://www.w3.org/WAI/ARIA/apg/) |
+| Abbrevation | Word or phrase                                                                                          |
+| :---------- | :------------------------------------------------------------------------------------------------------ |
+| APG         | Authoring Practices Guide, see [Link](https://www.w3.org/WAI/ARIA/apg/)                                 |
 | ARIA        | Accessible Rich Interactive Applications, see [Link](https://www.w3.org/WAI/standards-guidelines/aria/) |
-| WAI         | Web Accessibility Initiative, see [Link](https://www.w3.org/WAI/) |
+| WAI         | Web Accessibility Initiative, see [Link](https://www.w3.org/WAI/)                                       |
