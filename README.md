@@ -28,7 +28,10 @@ This section contains information around ways in which a component, or set of co
 
 **Resources**
 
+- [WAI ARIA](https://w3c.github.io/aria/)
 - [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
+- [a11ysupport](https://a11ysupport.io/)
+  - Check the support of various features across screen readers, browsers, and devices
 
 **Blogs**
 
