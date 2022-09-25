@@ -72,6 +72,7 @@ https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
 
 - [WAI ARIA](https://w3c.github.io/aria/)
 - [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
+- [Techniques for WCAG 2.2](https://www.w3.org/WAI/WCAG21/Techniques/)
 - [a11ysupport](https://a11ysupport.io/)
   - Check the support of various features across screen readers, browsers, and devices
 
