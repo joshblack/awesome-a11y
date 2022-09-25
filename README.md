@@ -186,13 +186,13 @@ This section contains information around different concepts as they relate to we
 
 **Tools**
 
-| Tool | Operating System | Integration |
-| :--- | :--------------- | :---------- |
-| Dragon Naturally Speaking | Windows | Third-party |
-| Speech Recognition | Windows | Built-in |
-| Voice Control | macOS | Built-in |
-| Voice Control | iOS | Built-in |
-| Voice Access | Android | Built-in |
+| Tool                      | Operating System | Integration |
+| :------------------------ | :--------------- | :---------- |
+| Dragon Naturally Speaking | Windows          | Third-party |
+| Speech Recognition        | Windows          | Built-in    |
+| Voice Control             | macOS            | Built-in    |
+| Voice Control             | iOS              | Built-in    |
+| Voice Access              | Android          | Built-in    |
 
 **Interaction Patterns**
 
