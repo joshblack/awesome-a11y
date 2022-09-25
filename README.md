@@ -26,6 +26,10 @@ This section contains information around ways in which a component, or set of co
 
 ## Links & Resources
 
+**Resources**
+
+- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
+
 **Blogs**
 
 - https://adrianroselli.com/
@@ -37,3 +41,11 @@ This section contains information around ways in which a component, or set of co
 - [Accessibility Insights](https://accessibilityinsights.io/)
 - [axe](https://www.deque.com/axe/)
 - [Equal Access Toolkit](https://www.ibm.com/able/toolkit)
+
+## Abbreviations
+
+| Abbrevation | Word or phrase |
+| :---------- | :------------- |
+| APG         | Authoring Practices Guide, see [Link](https://www.w3.org/WAI/ARIA/apg/) |
+| ARIA        | Accessible Rich Interactive Applications, see [Link](https://www.w3.org/WAI/standards-guidelines/aria/) |
+| WAI         | Web Accessibility Initiative, see [Link](https://www.w3.org/WAI/) |
