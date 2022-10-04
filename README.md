@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Links & Resources](#links--resources)
+- [Screen Readers](#screen-readers)
 - [Components](#components)
 - [Patterns](#patterns)
 - [Attributes](#attributes)
@@ -34,6 +35,29 @@
 - [axe](https://www.deque.com/axe/)
 - [Equal Access Toolkit](https://www.ibm.com/able/toolkit)
 
+## Screen Readers
+
+- [JAWS](#jaws)
+- [NVDA](#nvda)
+- [TalkBack](#talkback)
+- [VoiceOver](#voiceover)
+
+**Training**
+
+- https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents
+
+### JAWS
+
+### NVDA
+
+### TalkBack
+
+### VoiceOver
+
+**Training**
+
+- https://apps.apple.com/us/app/screenreader/id1610318073
+
 ## Components
 
 This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
@@ -58,6 +82,19 @@ This section contains information around specific components and how they might 
 **Links & Resources**
 
 - https://github.com/scottaohara/a11y_breadcrumbs
+
+### DataTable
+
+**Links & Resources**
+
+- Sorting
+  - https://adrianroselli.com/2021/04/sortable-table-columns.html
+  - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
+- Expansion
+  - https://adrianroselli.com/2019/09/table-with-expando-rows.html
+- Responsiveness
+  - https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
+  - https://adrianroselli.com/2017/11/a-responsive-accessible-table.html
 
 ### Link
 
