@@ -63,6 +63,7 @@
 This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
 
 - [Accordion](#accordion)
+- [DataTable](#datatable)
 - [Link](#link)
 - [Modal Dialog](#modal-dialog)
 - [Notifications](#notifications)
@@ -84,6 +85,21 @@ This section contains information around specific components and how they might 
 - https://github.com/scottaohara/a11y_breadcrumbs
 
 ### DataTable
+
+**Features**
+
+- Row expansion
+- Filtering
+- Sorting
+  - By single column
+  - By multiple columns
+- Selection
+  - Keyboard shortcut: Shift+DownArrow to select a row
+- Pagination
+- Inline editing
+- Virtualization
+- Batch actions
+- Inline actions
 
 **Links & Resources**
 
