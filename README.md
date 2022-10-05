@@ -117,6 +117,7 @@ This section contains information around specific components and how they might 
 - [Link](#link)
 - [Modal Dialog](#modal-dialog)
 - [Notifications](#notifications)
+- [Switch](#switch)
 - [Tooltip](#tooltip)
 - [Tree View](#tree-view)
 
@@ -188,6 +189,14 @@ This section contains information around specific components and how they might 
 - https://www.youtube.com/watch?v=W5YAaLLBKhQ
 - https://adrianroselli.com/2020/01/defining-toast-messages.html
 - https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
+
+### Switch
+
+**Links & Resources**
+
+- https://adrianroselli.com/2021/10/switch-role-support.html
+- https://adrianroselli.com/2019/08/under-engineered-toggles-too.html
+- https://adrianroselli.com/2019/03/under-engineered-toggles.html
 
 ### Tooltip
 
