@@ -20,6 +20,7 @@
   - [Link](#link)
   - [Modal Dialog](#modal-dialog)
   - [Notifications](#notifications)
+  - [Switch](#switch)
   - [Tooltip](#tooltip)
   - [Tree View](#tree-view)
 - [Patterns](#patterns)
