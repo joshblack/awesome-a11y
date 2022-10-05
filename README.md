@@ -75,11 +75,6 @@
 
 ## Screen Readers
 
-- [JAWS](#jaws)
-- [NVDA](#nvda)
-- [TalkBack](#talkback)
-- [VoiceOver](#voiceover)
-
 **Training**
 
 - https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents
@@ -112,15 +107,6 @@
 ## Components
 
 This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
-
-- [Accordion](#accordion)
-- [DataTable](#datatable)
-- [Link](#link)
-- [Modal Dialog](#modal-dialog)
-- [Notifications](#notifications)
-- [Switch](#switch)
-- [Tooltip](#tooltip)
-- [Tree View](#tree-view)
 
 ### Accordion
 
@@ -246,9 +232,6 @@ This section contains information around ways in which a component, or set of co
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
 
-- [The `title` attribute](#the-title-attribute)
-- [The `placeholder` attribute](#the-placeholder-attribute)
-
 ### The `title` attribute
 
 Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
@@ -326,9 +309,11 @@ This section contains information around different concepts as they relate to we
 
 - https://www.youtube.com/watch?v=2g9X-QPgZgo
 
-## Icons
+## Elements
 
-Generally, the structure of an icon should match the following:
+### SVG
+
+Generally, the structure of an svg icon should match the following:
 
 ```html
 <svg aria-hidden="true" focusable="false">
