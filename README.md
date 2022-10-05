@@ -37,7 +37,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- prettier-ignore-end -->
 
-
 ## Links & Resources
 
 **Resources**
