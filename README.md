@@ -32,7 +32,8 @@
 - [Concepts](#concepts)
   - [Forced Colors Mode](#forced-colors-mode)
   - [Speech Recognition](#speech-recognition)
-- [Icons](#icons)
+- [Elements](#elements)
+  - [SVG](#svg)
 - [Abbreviations](#abbreviations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
