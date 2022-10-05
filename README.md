@@ -2,16 +2,41 @@
 
 > A personal collection of resources, notes, and references for web accessibility
 
+<!-- prettier-ignore-start -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
 - [Links & Resources](#links--resources)
 - [Screen Readers](#screen-readers)
+  - [JAWS](#jaws)
+  - [NVDA](#nvda)
+  - [TalkBack](#talkback)
+  - [VoiceOver](#voiceover)
 - [Components](#components)
+  - [Accordion](#accordion)
+  - [Breadcrumb](#breadcrumb)
+  - [DataTable](#datatable)
+  - [Link](#link)
+  - [Modal Dialog](#modal-dialog)
+  - [Notifications](#notifications)
+  - [Tooltip](#tooltip)
+  - [Tree View](#tree-view)
 - [Patterns](#patterns)
+  - [Disclosure](#disclosure)
+  - [Roving tabindex](#roving-tabindex)
 - [Attributes](#attributes)
+  - [The `title` attribute](#the-title-attribute)
+  - [The `placeholder` attribute](#the-placeholder-attribute)
 - [Concepts](#concepts)
+  - [Forced Colors Mode](#forced-colors-mode)
+  - [Speech Recognition](#speech-recognition)
 - [Icons](#icons)
 - [Abbreviations](#abbreviations)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- prettier-ignore-end -->
+
 
 ## Links & Resources
 
