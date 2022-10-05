@@ -15,13 +15,6 @@
 
 ## Links & Resources
 
-**Design Systems**
-
-| Name                   | Homepage                              | Repo                                            |
-| :--------------------- | :------------------------------------ | :---------------------------------------------- |
-| GOV.UK Design System   | https://design-system.service.gov.uk/ | https://github.com/alphagov/govuk-design-system |
-| U.S. Web Design System | https://designsystem.digital.gov/     | https://github.com/uswds/uswds                  |
-
 **Resources**
 
 - [WAI ARIA](https://w3c.github.io/aria/)
@@ -36,12 +29,24 @@
 - https://adrianroselli.com/
 - https://sarahmhigley.com/
 - https://www.scottohara.me/
+- https://inclusive-components.design/
 
 **Tools**
 
 - [Accessibility Insights](https://accessibilityinsights.io/)
 - [axe](https://www.deque.com/axe/)
 - [Equal Access Toolkit](https://www.ibm.com/able/toolkit)
+
+**Videos**
+
+- [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
+
+**Design Systems**
+
+| Name                   | Homepage                              | Repo                                            |
+| :--------------------- | :------------------------------------ | :---------------------------------------------- |
+| GOV.UK Design System   | https://design-system.service.gov.uk/ | https://github.com/alphagov/govuk-design-system |
+| U.S. Web Design System | https://designsystem.digital.gov/     | https://github.com/uswds/uswds                  |
 
 ## Screen Readers
 
@@ -56,14 +61,27 @@
 
 ### JAWS
 
+**Links & Resources**
+
+- https://www.freedomscientific.com/training/jaws/getting-started/
+
 ### NVDA
+
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=Jao3s_CwdRU
 
 ### TalkBack
 
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=0Zpzl4EKCco
+
 ### VoiceOver
 
-**Training**
+**Links & Resources**
 
+- https://www.youtube.com/watch?v=5R-6WvAihms
 - https://apps.apple.com/us/app/screenreader/id1610318073
 
 ## Components
@@ -183,6 +201,12 @@ This section contains information around ways in which a component, or set of co
 
 - https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
 - https://adrianroselli.com/2020/05/disclosure-widgets.html
+
+### Roving tabindex
+
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=uCIC2LNt0bk
 
 ## Attributes
 
