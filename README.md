@@ -10,6 +10,7 @@
 - [Patterns](#patterns)
 - [Attributes](#attributes)
 - [Concepts](#concepts)
+- [Icons](#icons)
 - [Abbreviations](#abbreviations)
 
 ## Links & Resources
@@ -266,6 +267,35 @@ This section contains information around different concepts as they relate to we
 **Links & Resources**
 
 - https://www.youtube.com/watch?v=2g9X-QPgZgo
+
+## Icons
+
+Generally, the structure of an icon should match the following:
+
+```html
+<svg aria-hidden="true" focusable="false">
+  <!-- ... -->
+</svg>
+```
+
+- `aria-hidden` is set to `"true"` to hide the decorative icon
+- `focusable` is set to `"false"` to make this element inert in IE11 and Edge
+
+An `<svg>` element may use an `aria-label` along with `role="img"` if used as the contents of a control, like a `<button>`, where the label should be communicated.
+
+If interactive, the `<svg>` element must provide a label, `tabindex`, and use `role="img"`:
+
+```html
+<svg aria-label="Icon label" role="img" tabindex="0" focusable="true">
+  <!-- ... -->
+</svg>
+```
+
+An `<svg>` element may use `aria-labelledby` with `<title>` to provide a label instead of `aria-label`.
+
+**References**
+
+- https://allyjs.io/tutorials/focusing-in-svg.html
 
 ## Abbreviations
 
