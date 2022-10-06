@@ -180,8 +180,14 @@ This section contains information around specific components and how they might 
 
 ### Switch
 
+**Usage**
+
+- A switch may have an immediate effect upon activation (`button`)
+- A switch may have an effect upon form submission (`<input type="checkbox">`)
+
 **Links & Resources**
 
+-https://www.scottohara.me/note/2019/04/03/switch-script.html
 - https://adrianroselli.com/2021/10/switch-role-support.html
 - https://adrianroselli.com/2019/08/under-engineered-toggles-too.html
 - https://adrianroselli.com/2019/03/under-engineered-toggles.html
