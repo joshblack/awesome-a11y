@@ -67,6 +67,10 @@
 
 - [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
+**Newsletters**
+
+- [Accessibility Weekly](https://a11yweekly.com/)
+
 **Design Systems**
 
 | Name                   | Homepage                              | Repo                                            |
