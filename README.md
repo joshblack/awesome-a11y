@@ -270,8 +270,18 @@ https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
 
 This section contains information around different concepts as they relate to web accessibility. These are broader techniques that should be supported or considered when building for the web.
 
+- [Windows High Contrast Mode](#windows-high-contrast-mode)
 - [Forced Colors Mode](#forced-colors-mode)
 - [Speech Recognition](#speech-recognition)
+
+### Windows High Contrast Mode
+
+**Links & Resources**
+
+- https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/
+- https://blogs.windows.com/msedgedev/2020/09/17/styling-for-windows-high-contrast-with-new-standards-for-forced-colors/
+- https://adrianroselli.com/2017/11/os-high-contrast-versus-inverted-colors.html
+- https://www.maxability.co.in/2021/06/13/windows-high-contrast-mode-and-accessibility-testing/
 
 ### Forced Colors Mode
 
