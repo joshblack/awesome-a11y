@@ -30,6 +30,7 @@
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
 - [Concepts](#concepts)
+  - [Windows High Contrast Mode](#windows-high-contrast-mode)
   - [Forced Colors Mode](#forced-colors-mode)
   - [Speech Recognition](#speech-recognition)
 - [Elements](#elements)
