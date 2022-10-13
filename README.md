@@ -110,53 +110,6 @@
 - https://www.youtube.com/watch?v=5R-6WvAihms
 - https://apps.apple.com/us/app/screenreader/id1610318073
 
-## Patterns
-
-This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
-
-### Disclosure
-
-> A disclosure is a widget that enables content to be either collapsed (hidden) or expanded (visible).
-
-[Source](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/)
-
-**Links & Resources**
-
-- https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
-- https://adrianroselli.com/2020/05/disclosure-widgets.html
-
-### Roving tabindex
-
-**Links & Resources**
-
-- https://www.youtube.com/watch?v=uCIC2LNt0bk
-
-## Attributes
-
-This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
-
-### The `title` attribute
-
-Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
-
-> Relying on the title attribute is currently discouraged as many user agents do not expose the attribute in an accessible manner as required by this specification (e.g., requiring a pointing device such as a mouse to cause a tooltip to appear, which excludes keyboard-only users and touch-only users, such as anyone with a modern phone or tablet).
-
-https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
-
-**Links & Resources**
-
-- https://www.tpgi.com/using-the-html-title-attribute-updated/
-- https://developer.yoast.com/blog/dont-rely-title-attribute/
-
-### The `placeholder` attribute
-
-**Links & Resources**
-
-- https://www.nngroup.com/articles/form-design-placeholders/
-- https://www.maxability.co.in/2016/01/03/placeholder-attribute-and-why-it-is-not-accessible/
-- https://www.deque.com/blog/accessible-forms-the-problem-with-placeholders/
-- https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Placeholder_Research
-
 ## Concepts
 
 This section contains information around different concepts as they relate to web accessibility. These are broader techniques that should be supported or considered when building for the web.
@@ -167,10 +120,17 @@ This section contains information around different concepts as they relate to we
 
 ### Windows High Contrast Mode
 
+#### Focus styles
+
+When authoring focus styles, in particular with `box-shadow`, it's important to note that Windows High Contrast Mode will ignore these changes[^1]. One recommendation from Sarah Higley is to use a transparent outline along with `box-shadow` (or other custom focus styles). This transparent outline should match the width of your custom focus styles and will be visible when WHCM is turned on.
+
+[^1]: https://sarahmhigley.com/writing/whcm-quick-tips/
+
 **Links & Resources**
 
 - https://www.smashingmagazine.com/2022/06/guide-windows-high-contrast-mode/
 - https://blogs.windows.com/msedgedev/2020/09/17/styling-for-windows-high-contrast-with-new-standards-for-forced-colors/
+- https://sarahmhigley.com/writing/whcm-quick-tips/
 - https://adrianroselli.com/2017/11/os-high-contrast-versus-inverted-colors.html
 - https://www.maxability.co.in/2021/06/13/windows-high-contrast-mode-and-accessibility-testing/
 
@@ -221,6 +181,54 @@ This section contains information around different concepts as they relate to we
 **Links & Resources**
 
 - https://www.youtube.com/watch?v=2g9X-QPgZgo
+
+
+## Patterns
+
+This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
+
+### Disclosure
+
+> A disclosure is a widget that enables content to be either collapsed (hidden) or expanded (visible).
+
+[Source](https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/)
+
+**Links & Resources**
+
+- https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
+- https://adrianroselli.com/2020/05/disclosure-widgets.html
+
+### Roving tabindex
+
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=uCIC2LNt0bk
+
+## Attributes
+
+This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
+
+### The `title` attribute
+
+Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
+
+> Relying on the title attribute is currently discouraged as many user agents do not expose the attribute in an accessible manner as required by this specification (e.g., requiring a pointing device such as a mouse to cause a tooltip to appear, which excludes keyboard-only users and touch-only users, such as anyone with a modern phone or tablet).
+
+https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
+
+**Links & Resources**
+
+- https://www.tpgi.com/using-the-html-title-attribute-updated/
+- https://developer.yoast.com/blog/dont-rely-title-attribute/
+
+### The `placeholder` attribute
+
+**Links & Resources**
+
+- https://www.nngroup.com/articles/form-design-placeholders/
+- https://www.maxability.co.in/2016/01/03/placeholder-attribute-and-why-it-is-not-accessible/
+- https://www.deque.com/blog/accessible-forms-the-problem-with-placeholders/
+- https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Placeholder_Research
 
 ## Elements
 
@@ -370,3 +378,4 @@ This section contains information around specific components and how they might 
 | APG         | Authoring Practices Guide, see [Link](https://www.w3.org/WAI/ARIA/apg/)                                 |
 | ARIA        | Accessible Rich Interactive Applications, see [Link](https://www.w3.org/WAI/standards-guidelines/aria/) |
 | WAI         | Web Accessibility Initiative, see [Link](https://www.w3.org/WAI/)                                       |
+| WHCM | [Windows High Contrast Mode](#windows-high-contrast-mode) |
