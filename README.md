@@ -110,116 +110,6 @@
 - https://www.youtube.com/watch?v=5R-6WvAihms
 - https://apps.apple.com/us/app/screenreader/id1610318073
 
-## Components
-
-This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
-
-### Accordion
-
-[APG](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/)
-
-**Links & Resources**
-
-- https://github.com/scottaohara/a11y_accordions
-
-### Breadcrumb
-
-**Links & Resources**
-
-- https://github.com/scottaohara/a11y_breadcrumbs
-
-### DataTable
-
-**Features**
-
-- Row expansion
-- Filtering
-- Sorting
-  - By single column
-  - By multiple columns
-- Selection
-  - Keyboard shortcut: Shift+DownArrow to select a row
-- Pagination
-- Inline editing
-- Virtualization
-- Batch actions
-- Inline actions
-
-**Links & Resources**
-
-- Sorting
-  - https://adrianroselli.com/2021/04/sortable-table-columns.html
-  - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
-- Expansion
-  - https://adrianroselli.com/2019/09/table-with-expando-rows.html
-- Responsiveness
-  - https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
-  - https://adrianroselli.com/2017/11/a-responsive-accessible-table.html
-
-### Link
-
-**Links & Resources**
-
-- [Disabling a link](https://www.scottohara.me/blog/2021/05/28/disabled-links.html)
-- https://github.com/scottaohara/aria_links
-
-### Modal Dialog
-
-[APG](https://www.w3.org/WAI/ARIA/apg/example-index/dialog-modal/dialog.html)
-
-**Links & Resources**
-
-- https://github.com/scottaohara/accessible_modal_window
-- https://www.scottohara.me/blog/2016/09/07/revised-modal-window.html
-- https://www.scottohara.me/blog/2019/03/05/open-dialog.html
-- https://www.tpgi.com/the-current-state-of-modal-dialog-accessibility/
-- https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
-
-### Notifications
-
-**Links & Resources**
-
-- https://www.youtube.com/watch?v=W5YAaLLBKhQ
-- https://adrianroselli.com/2020/01/defining-toast-messages.html
-- https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
-
-### Switch
-
-**Usage**
-
-- A switch may have an immediate effect upon activation (`button`)
-- A switch may have an effect upon form submission (`<input type="checkbox">`)
-
-**Links & Resources**
-
--https://www.scottohara.me/note/2019/04/03/switch-script.html
-
-- https://adrianroselli.com/2021/10/switch-role-support.html
-- https://adrianroselli.com/2019/08/under-engineered-toggles-too.html
-- https://adrianroselli.com/2019/03/under-engineered-toggles.html
-
-### Tooltip
-
-**Links & Resources**
-
-- https://sarahmhigley.com/writing/tooltips-in-wcag-21/
-- https://github.com/scottaohara/a11y_tooltips
-- https://www.youtube.com/watch?v=lb0_v7D4kbs
-
-### Tree View
-
-**Discussions**
-
-- https://github.com/w3c/aria/issues/1311
-
-**Design Systems**
-
-| Name                                                    | Guidelines                                                         | CSS                                                             | Web Components | React                                                                                  | Angular                                                |
-| :------------------------------------------------------ | :----------------------------------------------------------------- | :-------------------------------------------------------------- | :------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------- |
-| [Carbon Design System](https://carbondesignsystem.com/) | [Link](https://carbondesignsystem.com/components/tree-view/usage/) |                                                                 |                | [Link](https://react.carbondesignsystem.com/?path=/story/components-treeview--default) |
-| [Clarity Design System](https://clarity.design/)        |                                                                    |                                                                 |                |                                                                                        | [Link](https://clarity.design/documentation/tree-view) |
-| [Spectrum](https://spectrum.adobe.com/)                 |                                                                    | [Link](https://opensource.adobe.com/spectrum-css/treeview.html) |                |                                                                                        |                                                        |
-
 ## Patterns
 
 This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
@@ -362,6 +252,116 @@ An `<svg>` element may use `aria-labelledby` with `<title>` to provide a label i
 **References**
 
 - https://allyjs.io/tutorials/focusing-in-svg.html
+
+## Components
+
+This section contains information around specific components and how they might be built accessibly or challenges that one may run into.
+
+### Accordion
+
+[APG](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/)
+
+**Links & Resources**
+
+- https://github.com/scottaohara/a11y_accordions
+
+### Breadcrumb
+
+**Links & Resources**
+
+- https://github.com/scottaohara/a11y_breadcrumbs
+
+### DataTable
+
+**Features**
+
+- Row expansion
+- Filtering
+- Sorting
+  - By single column
+  - By multiple columns
+- Selection
+  - Keyboard shortcut: Shift+DownArrow to select a row
+- Pagination
+- Inline editing
+- Virtualization
+- Batch actions
+- Inline actions
+
+**Links & Resources**
+
+- Sorting
+  - https://adrianroselli.com/2021/04/sortable-table-columns.html
+  - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
+- Expansion
+  - https://adrianroselli.com/2019/09/table-with-expando-rows.html
+- Responsiveness
+  - https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
+  - https://adrianroselli.com/2017/11/a-responsive-accessible-table.html
+
+### Link
+
+**Links & Resources**
+
+- [Disabling a link](https://www.scottohara.me/blog/2021/05/28/disabled-links.html)
+- https://github.com/scottaohara/aria_links
+
+### Modal Dialog
+
+[APG](https://www.w3.org/WAI/ARIA/apg/example-index/dialog-modal/dialog.html)
+
+**Links & Resources**
+
+- https://github.com/scottaohara/accessible_modal_window
+- https://www.scottohara.me/blog/2016/09/07/revised-modal-window.html
+- https://www.scottohara.me/blog/2019/03/05/open-dialog.html
+- https://www.tpgi.com/the-current-state-of-modal-dialog-accessibility/
+- https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
+
+### Notifications
+
+**Links & Resources**
+
+- https://www.youtube.com/watch?v=W5YAaLLBKhQ
+- https://adrianroselli.com/2020/01/defining-toast-messages.html
+- https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
+
+### Switch
+
+**Usage**
+
+- A switch may have an immediate effect upon activation (`button`)
+- A switch may have an effect upon form submission (`<input type="checkbox">`)
+
+**Links & Resources**
+
+-https://www.scottohara.me/note/2019/04/03/switch-script.html
+
+- https://adrianroselli.com/2021/10/switch-role-support.html
+- https://adrianroselli.com/2019/08/under-engineered-toggles-too.html
+- https://adrianroselli.com/2019/03/under-engineered-toggles.html
+
+### Tooltip
+
+**Links & Resources**
+
+- https://sarahmhigley.com/writing/tooltips-in-wcag-21/
+- https://github.com/scottaohara/a11y_tooltips
+- https://www.youtube.com/watch?v=lb0_v7D4kbs
+
+### Tree View
+
+**Discussions**
+
+- https://github.com/w3c/aria/issues/1311
+
+**Design Systems**
+
+| Name                                                    | Guidelines                                                         | CSS                                                             | Web Components | React                                                                                  | Angular                                                |
+| :------------------------------------------------------ | :----------------------------------------------------------------- | :-------------------------------------------------------------- | :------------- | :------------------------------------------------------------------------------------- | :----------------------------------------------------- |
+| [Carbon Design System](https://carbondesignsystem.com/) | [Link](https://carbondesignsystem.com/components/tree-view/usage/) |                                                                 |                | [Link](https://react.carbondesignsystem.com/?path=/story/components-treeview--default) |
+| [Clarity Design System](https://clarity.design/)        |                                                                    |                                                                 |                |                                                                                        | [Link](https://clarity.design/documentation/tree-view) |
+| [Spectrum](https://spectrum.adobe.com/)                 |                                                                    | [Link](https://opensource.adobe.com/spectrum-css/treeview.html) |                |                                                                                        |                                                        |
 
 ## Abbreviations
 
