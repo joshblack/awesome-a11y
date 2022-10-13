@@ -131,6 +131,7 @@ When authoring focus styles, in particular with `box-shadow`, it's important to 
 - https://blogs.windows.com/msedgedev/2020/09/17/styling-for-windows-high-contrast-with-new-standards-for-forced-colors/
 - https://sarahmhigley.com/writing/whcm-quick-tips/
 - https://adrianroselli.com/2017/11/os-high-contrast-versus-inverted-colors.html
+- https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/
 - https://www.maxability.co.in/2021/06/13/windows-high-contrast-mode-and-accessibility-testing/
 
 ### Forced Colors Mode
