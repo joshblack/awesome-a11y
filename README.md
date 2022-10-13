@@ -13,16 +13,17 @@
   - [NVDA](#nvda)
   - [TalkBack](#talkback)
   - [VoiceOver](#voiceover)
+- [Concepts](#concepts)
+  - [Windows High Contrast Mode](#windows-high-contrast-mode)
+    - [Focus styles](#focus-styles)
+  - [Forced Colors Mode](#forced-colors-mode)
+  - [Speech Recognition](#speech-recognition)
 - [Patterns](#patterns)
   - [Disclosure](#disclosure)
   - [Roving tabindex](#roving-tabindex)
 - [Attributes](#attributes)
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
-- [Concepts](#concepts)
-  - [Windows High Contrast Mode](#windows-high-contrast-mode)
-  - [Forced Colors Mode](#forced-colors-mode)
-  - [Speech Recognition](#speech-recognition)
 - [Elements](#elements)
   - [SVG](#svg)
 - [Components](#components)
@@ -181,7 +182,6 @@ When authoring focus styles, in particular with `box-shadow`, it's important to 
 **Links & Resources**
 
 - https://www.youtube.com/watch?v=2g9X-QPgZgo
-
 
 ## Patterns
 
@@ -378,4 +378,4 @@ This section contains information around specific components and how they might 
 | APG         | Authoring Practices Guide, see [Link](https://www.w3.org/WAI/ARIA/apg/)                                 |
 | ARIA        | Accessible Rich Interactive Applications, see [Link](https://www.w3.org/WAI/standards-guidelines/aria/) |
 | WAI         | Web Accessibility Initiative, see [Link](https://www.w3.org/WAI/)                                       |
-| WHCM | [Windows High Contrast Mode](#windows-high-contrast-mode) |
+| WHCM        | [Windows High Contrast Mode](#windows-high-contrast-mode)                                               |
