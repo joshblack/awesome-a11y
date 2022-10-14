@@ -364,7 +364,6 @@ This section contains information around specific components and how they might 
 - Leading and trailing visuals and labels
 - Dynamically loading in sub-trees
 
-
 **Discussions**
 
 - https://github.com/w3c/aria/issues/1311
