@@ -357,6 +357,14 @@ This section contains information around specific components and how they might 
 
 ### Tree View
 
+**Scenarios**
+
+- Selection (single, multi)
+- Navigation
+- Leading and trailing visuals and labels
+- Dynamically loading in sub-trees
+
+
 **Discussions**
 
 - https://github.com/w3c/aria/issues/1311
