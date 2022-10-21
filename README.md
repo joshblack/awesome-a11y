@@ -229,6 +229,19 @@ https://html.spec.whatwg.org/multipage/dom.html#the-title-attribute
 - https://www.deque.com/blog/accessible-forms-the-problem-with-placeholders/
 - https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Placeholder_Research
 
+## Focus
+
+https://w3c.github.io/aria/#managingfocus
+
+- Tab order
+- Roving tabindex
+- `aria-activedescendant`
+- Determining initial focus
+  - Sometimes it's helpful to have the "selected" item be the initial focus candidate
+  - It's important to remove `disabled`, hidden, or otherwise unavailable items from initial focus candiates
+- Restoring focus
+  - It's important to remember what the last active element was in order to restore focus to it
+
 ## Elements
 
 ### SVG
