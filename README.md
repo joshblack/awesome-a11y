@@ -292,6 +292,12 @@ This section contains information around specific components and how they might 
 
 - https://github.com/scottaohara/a11y_breadcrumbs
 
+### Combobox
+
+**Links & Resources**
+
+- https://dequelabs.github.io/combobo/demo/
+
 ### DataTable
 
 **Features**
