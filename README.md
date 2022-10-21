@@ -30,6 +30,7 @@
 - [Components](#components)
   - [Accordion](#accordion)
   - [Breadcrumb](#breadcrumb)
+  - [Combobox](#combobox)
   - [DataTable](#datatable)
   - [Link](#link)
   - [Modal Dialog](#modal-dialog)
