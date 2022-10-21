@@ -24,6 +24,7 @@
 - [Attributes](#attributes)
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
+- [Focus](#focus)
 - [Elements](#elements)
   - [SVG](#svg)
 - [Components](#components)
