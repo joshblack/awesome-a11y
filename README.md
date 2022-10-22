@@ -345,6 +345,7 @@ This section contains information around specific components and how they might 
 - https://www.scottohara.me/blog/2019/03/05/open-dialog.html
 - https://www.tpgi.com/the-current-state-of-modal-dialog-accessibility/
 - https://adrianroselli.com/2020/10/dialog-focus-in-screen-readers.html
+- https://github.com/KittyGiraudel/a11y-dialog
 
 ### Notifications
 
