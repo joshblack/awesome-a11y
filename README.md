@@ -71,6 +71,12 @@
 
 - [A11ycasts with Rob Dodson](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
+**Talks**
+
+- https://talks.hiddedevries.nl/7336XA/slides
+  - Approaching accessibility from an organization
+  - How to move accessibility earlier on in the process
+
 **Newsletters**
 
 - [Accessibility Weekly](https://a11yweekly.com/)
