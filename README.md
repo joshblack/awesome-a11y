@@ -96,9 +96,15 @@
 
 ### JAWS
 
+| Command | Description | Source |
+| :------ | :---------- | :-------- |
+| Press JAWS Key + Spacebar, then press H | View JAWS speech history | [Link](https://mobile.twitter.com/aardrian/status/1144576648634912768) |
+| Press Shift + JAWS Key + F1 | Announce accessibility info from DOM | [Link](https://mobile.twitter.com/aardrian/status/1144585392211054594) |
+
 **Links & Resources**
 
 - https://www.freedomscientific.com/training/jaws/getting-started/
+- https://mobile.twitter.com/aardrian/status/1516755145622794244
 
 ### NVDA
 
