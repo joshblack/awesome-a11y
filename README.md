@@ -135,6 +135,12 @@ This section contains information around different concepts as they relate to we
 
 ### Windows High Contrast Mode
 
+**Checklist**
+
+- [ ] Enable Windows High Contrast Mode
+- [ ] Verify that the piece of UI that you're testing for is visible, including any interactions
+- [ ] Make sure to adjust the Windows High Contrast Mode theme to verify that the keywords adapt to user preference
+
 #### Focus styles
 
 When authoring focus styles, in particular with `box-shadow`, it's important to note that Windows High Contrast Mode will ignore these changes ([Reference](https://sarahmhigley.com/writing/whcm-quick-tips/)). One recommendation from Sarah Higley is to use a transparent outline along with `box-shadow` (or other custom focus styles). This transparent outline should match the width of your custom focus styles and will be visible when WHCM is turned on.
