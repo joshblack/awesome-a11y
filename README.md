@@ -202,6 +202,12 @@ When authoring focus styles, in particular with `box-shadow`, it's important to 
 
 - https://www.youtube.com/watch?v=2g9X-QPgZgo
 
+### Landmarks
+
+**Links & Resources**
+
+- https://www.nomensa.com/blog/how-aria-landmark-roles-help-screen-reader-users
+
 ## Patterns
 
 This section contains information around ways in which a component, or set of components, may be used and how that pattern may or may not be problematic.
@@ -222,6 +228,12 @@ This section contains information around ways in which a component, or set of co
 **Links & Resources**
 
 - https://www.youtube.com/watch?v=uCIC2LNt0bk
+
+### Skeletons
+
+**Links & Resources**
+
+- https://adrianroselli.com/2020/11/more-accessible-skeletons.html
 
 ## Attributes
 
