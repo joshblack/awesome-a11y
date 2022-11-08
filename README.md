@@ -325,6 +325,27 @@ This section contains information around specific components and how they might 
 
 - https://github.com/scottaohara/a11y_breadcrumbs
 
+### Button
+
+**Features**
+
+- Variants
+  - Primary
+  - Secondary
+  - Outline / Ghost
+- States
+  - Default
+  - Focus
+  - Active
+  - Hover
+  - Disabled
+- Content
+  - Text-only
+  - Icon-only (with tooltip)
+  - Text and icon
+- Interesting combinations
+  - Disabled button plus tooltip
+
 ### Combobox
 
 **Links & Resources**
