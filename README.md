@@ -32,6 +32,7 @@
 - [Components](#components)
   - [Accordion](#accordion)
   - [Breadcrumb](#breadcrumb)
+  - [Button](#button)
   - [Combobox](#combobox)
   - [DataTable](#datatable)
   - [Link](#link)
