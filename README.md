@@ -23,6 +23,8 @@
   - [Disclosure](#disclosure)
   - [Roving tabindex](#roving-tabindex)
   - [Skeletons](#skeletons)
+  - [Visually Hidden](#visually-hidden)
+  - [Responsive Type](#responsive-type)
 - [Attributes](#attributes)
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
