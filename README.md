@@ -238,6 +238,18 @@ This section contains information around ways in which a component, or set of co
 
 - https://adrianroselli.com/2020/11/more-accessible-skeletons.html
 
+### Visually Hidden
+
+**Links & Resources**
+
+- https://www.tpgi.com/the-anatomy-of-visually-hidden/
+
+### Responsive Type
+
+**Links & Resources**
+
+- https://adrianroselli.com/2019/12/responsive-type-and-zoom.html
+
 ## Attributes
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
