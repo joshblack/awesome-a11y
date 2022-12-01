@@ -95,6 +95,10 @@
 
 ## Screen Readers
 
+**Getting started**
+
+- https://www.sarasoueidan.com/blog/testing-environment-setup/
+
 **Training**
 
 - https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents
