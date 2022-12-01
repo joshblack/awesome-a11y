@@ -427,6 +427,12 @@ This section contains information around specific components and how they might 
 - https://adrianroselli.com/2020/01/defining-toast-messages.html
 - https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
 
+### Pagination
+
+**Links & Resources**
+
+- https://designsystem.digital.gov/components/pagination/
+
 ### Switch
 
 **Usage**
