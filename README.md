@@ -40,6 +40,7 @@
   - [Link](#link)
   - [Modal Dialog](#modal-dialog)
   - [Notifications](#notifications)
+  - [Pagination](#pagination)
   - [Switch](#switch)
   - [Tooltip](#tooltip)
   - [Tree View](#tree-view)
