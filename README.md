@@ -261,6 +261,12 @@ This section contains information around ways in which a component, or set of co
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
 
+### The `aria-current` attribute
+
+**Links & Resources**
+
+- https://tink.uk/using-the-aria-current-attribute/
+
 ### The `title` attribute
 
 Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
