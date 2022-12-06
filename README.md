@@ -26,6 +26,7 @@
   - [Visually Hidden](#visually-hidden)
   - [Responsive Type](#responsive-type)
 - [Attributes](#attributes)
+  - [`aria-disabled` vs `disabled`](#aria-disabled-vs-disabled)
   - [The `aria-current` attribute](#the-aria-current-attribute)
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
