@@ -262,6 +262,12 @@ This section contains information around ways in which a component, or set of co
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
 
+### `aria-disabled` vs `disabled`
+
+Generally, having a UI element be `disabled` is unhelpful. It does not indicate why the control is in a disabled state. If possible, find a way to communicate why the current state is invalid and how to remedy it.
+
+In situations where you would like to communicate why something is conditionally not available, one may use `aria-disabled`. It's important that the UI element looks and acts disabled and that there is a clear explanation as to why the control is not available.
+
 ### The `aria-current` attribute
 
 **Links & Resources**
