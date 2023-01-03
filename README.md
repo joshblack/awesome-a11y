@@ -444,9 +444,45 @@ This section contains information around specific components and how they might 
 
 ### Pagination
 
+- Use a surrounding `<nav>` with an appropriate `aria-label`
+- For Previous and Next links:
+  - Make sure any direction visuals (like icons for arrows) are hidden (either through `aria-hidden="true"` or `role="presentation"`)
+  - Make sure they use `<a>` tags
+  - Make sure they use `rel="prev"` and `rel="next"`, respectively
+- For page links:
+  - If possible, wrap in a surrounding `<ul>` or `<ol>`
+  - Each item is within a `<li>` and uses a `<a>`
+  - Each item should have an `aria-label` with contents set to the localized text representing: "Page {number}"
+  - If the item is the current page, it shoudl set `aria-current="page"`
+
+**Example**
+
+```html
+<nav aria-label="Pagination">
+  <ul>
+    <li>
+      <a href="..." rel="prev" aria-label="Previous page">Previous</a>
+    </li>
+    <li>
+      <a href="..." aria-label="Page 1">1</a>
+    </li>
+    <li>
+      <a href="..." aria-label="Page 2" aria-current="page">2</a>
+    </li>
+    <li>
+      <a href="..." aria-label="Page 3">3</a>
+    </li>
+    <li>
+      <a href="..." rel="next" aria-label="Next page">Next</a>
+    </li>
+  </ul>
+</nav>
+```
+
 **Links & Resources**
 
 - https://designsystem.digital.gov/components/pagination/
+- https://design-system.service.gov.uk/components/pagination/
 
 ### Switch
 
