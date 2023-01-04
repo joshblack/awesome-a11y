@@ -405,6 +405,7 @@ This section contains information around specific components and how they might 
 
 **Links & Resources**
 
+- https://inclusive-components.design/data-tables/
 - Sorting
   - https://adrianroselli.com/2021/04/sortable-table-columns.html
   - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
@@ -413,6 +414,10 @@ This section contains information around specific components and how they might 
 - Responsiveness
   - https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
   - https://adrianroselli.com/2017/11/a-responsive-accessible-table.html
+- Changing CSS display properties on tables
+  - https://www.tpgi.com/short-note-on-what-css-display-properties-do-to-table-semantics/
+  - https://adrianroselli.com/2020/10/a11yto-conf-css-display-properties-versus-html-semantics.html
+  - https://adrianroselli.com/2022/07/its-mid-2022-and-browsers-mostly-safari-still-break-accessibility-via-display-properties.html
 
 ### Link
 
