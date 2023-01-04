@@ -406,6 +406,7 @@ This section contains information around specific components and how they might 
 **Links & Resources**
 
 - https://inclusive-components.design/data-tables/
+- https://adrianroselli.com/2017/11/hey-its-still-ok-to-use-tables.html
 - Sorting
   - https://adrianroselli.com/2021/04/sortable-table-columns.html
   - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
@@ -414,10 +415,17 @@ This section contains information around specific components and how they might 
 - Responsiveness
   - https://adrianroselli.com/2020/11/under-engineered-responsive-tables.html
   - https://adrianroselli.com/2017/11/a-responsive-accessible-table.html
+- Grid vs table roles
+  - https://twitter.com/stevefaulkner/status/1016319282609782784
+  - https://sarahmhigley.com/writing/grids-part1/#purpose
 - Changing CSS display properties on tables
   - https://www.tpgi.com/short-note-on-what-css-display-properties-do-to-table-semantics/
   - https://adrianroselli.com/2020/10/a11yto-conf-css-display-properties-versus-html-semantics.html
   - https://adrianroselli.com/2022/07/its-mid-2022-and-browsers-mostly-safari-still-break-accessibility-via-display-properties.html
+- Screen Readers
+  - https://www.24a11y.com/2018/tables-and-beers/
+  - https://codepen.io/stevef/post/tables-tequila-and-beer
+  - https://tink.uk/how-screen-readers-navigate-data-tables/
 
 ### Link
 
