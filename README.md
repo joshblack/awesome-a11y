@@ -39,6 +39,7 @@
   - [Button](#button)
   - [Combobox](#combobox)
   - [DataTable](#datatable)
+  - [Dialog](#dialog)
   - [Link](#link)
   - [Modal Dialog](#modal-dialog)
   - [Notifications](#notifications)
@@ -434,8 +435,8 @@ This section contains information around specific components and how they might 
 - When dialog is activated focus is moved to the dialog.
 - Default initial focus is on the first interactive element in the dialog.
 - The dialog should have an accessible name and announce itself as a "dialog".
-- The dialog should be dismissable by 
-  - activating a "close" button inside the dialog 
+- The dialog should be dismissable by
+  - activating a "close" button inside the dialog
   - pressing the <kbd>escape</kbd> key
   - blurring the dialog by clicking or tapping outside of it
 - If the dialog is modal obscured contents should be inert and inaccessible via keyboard and virtual cursor by constraining focus to the dialog in a "ring".
