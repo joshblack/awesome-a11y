@@ -427,6 +427,36 @@ This section contains information around specific components and how they might 
   - https://codepen.io/stevef/post/tables-tequila-and-beer
   - https://tink.uk/how-screen-readers-navigate-data-tables/
 
+### Dialog
+
+**Behavior**
+
+- When dialog is activated focus is moved to the dialog.
+- Default initial focus is on the first interactive element in the dialog.
+- The dialog should have an accessible name and announce itself as a "dialog".
+- The dialog should be dismissable by 
+  - activating a "close" button inside the dialog 
+  - pressing the <kbd>escape</kbd> key
+  - blurring the dialog by clicking or tapping outside of it
+- If the dialog is modal obscured contents should be inert and inaccessible via keyboard and virtual cursor by constraining focus to the dialog in a "ring".
+- If the dialog is non-modal keyboard and virtual cursor focus is not constrained to the dialog and can leave the dialog causing it to close.
+- When the dialog is closed focus should return to the triggering element unless the dialog is non-modal and was closed by focus or virtual cursor leaving the dialog.
+
+**Links & Resources**
+
+- https://w3c.github.io/aria-practices/#dialog_modal
+- https://www.tpgi.com/the-current-state-of-modal-dialog-accessibility/
+- https://www.scottohara.me/blog/2019/03/05/open-dialog.html
+- https://www.youtube.com/watch?v=JS68faEUduk
+- https://svinkle.github.io/launchy/
+- https://github.com/WICG/inert
+- https://github.com/scottaohara/accessible_modal_window
+- Implementations
+  - https://reach.tech/dialog
+  - https://react-spectrum.adobe.com/react-spectrum/Dialog.html
+  - https://chakra-ui.com/docs/overlay/modal
+  - https://www.radix-ui.com/docs/primitives/components/dialog
+
 ### Link
 
 **Links & Resources**
