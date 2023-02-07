@@ -122,9 +122,12 @@
 
 ### NVDA
 
+- The Focus Highlight add-on is incredibly useful
+
 **Links & Resources**
 
 - https://www.youtube.com/watch?v=Jao3s_CwdRU
+- https://addons.nvda-project.org/addons/focusHighlight.en.html
 
 ### TalkBack
 
