@@ -248,6 +248,13 @@ This section contains information around ways in which a component, or set of co
 
 - https://adrianroselli.com/2020/11/more-accessible-skeletons.html
 
+### Text Truncation
+
+**Links & Resources**
+
+- https://www.tpgi.com/the-ballad-of-text-overflow/
+- https://yatil.net/blog/text-overflow-ellipsis-harmful
+
 ### Visually Hidden
 
 **Links & Resources**
