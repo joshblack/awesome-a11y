@@ -23,6 +23,7 @@
   - [Disclosure](#disclosure)
   - [Roving tabindex](#roving-tabindex)
   - [Skeletons](#skeletons)
+  - [Text Truncation](#text-truncation)
   - [Visually Hidden](#visually-hidden)
   - [Responsive Type](#responsive-type)
 - [Attributes](#attributes)
