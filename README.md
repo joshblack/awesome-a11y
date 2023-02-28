@@ -420,6 +420,7 @@ This section contains information around specific components and how they might 
 
 - https://inclusive-components.design/data-tables/
 - https://adrianroselli.com/2017/11/hey-its-still-ok-to-use-tables.html
+- https://tink.uk/how-screen-readers-navigate-data-tables/
 - Sorting
   - https://adrianroselli.com/2021/04/sortable-table-columns.html
   - https://adrianroselli.com/2021/06/multi-column-sortable-table-experiment.html
