@@ -1,5 +1,5 @@
 {
-  "name": "react-scrollable-region",
+  "name": "react-context-headings",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -17,9 +17,6 @@
   "peerDependencies": {
     "react": "^16.8 || ^17.0 || ^18.0",
     "react-dom": "^16.8 || ^17.0 || ^18.0"
-  },
-  "dependencies": {
-    "@babel/runtime": "^7.21.0"
   },
   "devDependencies": {
     "bundle": "^0.0.0",

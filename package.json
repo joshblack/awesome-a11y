@@ -1,19 +1,22 @@
 {
   "name": "awesome-a11y",
   "private": true,
+  "type": "module",
   "workspaces": [
     "components/*",
-    "components/*/examples/*",
-    "examples/*"
+    "packages/*",
+    "www"
   ],
   "scripts": {
     "clean": "yarn workspaces foreach -p run clean && rimraf node_modules",
     "build": "yarn workspaces foreach -pt run build",
+    "gh-pages": "yarn build && yarn workspaces foreach -pt run gh-pages && node tasks/deploy.js",
     "format": "prettier --cache --write '**/*.{js,md,mdx,ts,tsx,yml}'",
     "format:diff": "prettier --cache --list-different '**/*.{js.md,mdx,ts,tsx,yml}'"
   },
   "devDependencies": {
     "@trivago/prettier-plugin-sort-imports": "^4.1.1",
+    "glob": "^9.2.1",
     "prettier": "^2.8.4",
     "rimraf": "^4.4.0"
   }

@@ -1,13 +1,17 @@
 {
-  "name": "scrollabe-region-nextjs",
+  "name": "www",
+  "type": "module",
   "private": true,
   "scripts": {
+    "build": "next build",
     "clean": "rimraf .next",
+    "gh-pages": "next build && next export -o gh-pages",
     "develop": "next"
   },
   "dependencies": {
     "next": "^13.2.4",
     "react": "^18.2.0",
+    "react-context-headings": "^0.0.0",
     "react-dom": "^18.2.0",
     "react-scrollable-region": "^0.0.0"
   },

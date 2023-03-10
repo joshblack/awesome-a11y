@@ -27,7 +27,7 @@ package-lock.json
 # Build directories
 .cache
 .next
-/github-pages
+gh-pages
 dist
 esm
 umd
