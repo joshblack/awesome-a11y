@@ -22,6 +22,7 @@
 - [Patterns](#patterns)
   - [Disclosure](#disclosure)
   - [Roving tabindex](#roving-tabindex)
+  - [Scrollable regions](#scrollable-regions)
   - [Skeletons](#skeletons)
   - [Text Truncation](#text-truncation)
   - [Visually Hidden](#visually-hidden)
