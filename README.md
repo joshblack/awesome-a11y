@@ -331,6 +331,8 @@ https://w3c.github.io/aria/#managingfocus
   - It's important to remove `disabled`, hidden, or otherwise unavailable items from initial focus candiates
 - Restoring focus
   - It's important to remember what the last active element was in order to restore focus to it
+- When swapping out or removing a button, make sure to restore focus to a previous item or add it to the item that has replaced the button
+  - e.g. a follow button that is swapped out for a unfollow button
 
 ## Elements
 
