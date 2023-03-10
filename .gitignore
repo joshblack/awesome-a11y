@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Certificates
+*.crt
+*.pem
+
+# Editor
+.DS_Store
+*.swp
+.idea
+.vscode
+
+# Keep environment variables out of version control
+.env
+
+# Dependencies
+node_modules
+package-lock.json
+
+# Build directories
+.cache
+.next
+/github-pages
+dist
+esm
+umd
+lib
+
+# https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
