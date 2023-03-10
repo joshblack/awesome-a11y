@@ -39,7 +39,7 @@ jobs:
       - name: Build website for GitHub Pages
         run: yarn workspace www run gh-pages
         env:
-          NEXT_BASE_PATH: 'awesome-a11y'
+          NEXT_BASE_PATH: '/awesome-a11y'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
