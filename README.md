@@ -247,6 +247,14 @@ This section contains information around ways in which a component, or set of co
 
 - https://www.youtube.com/watch?v=uCIC2LNt0bk
 
+### Scrollable regions
+
+Often related to this violation: https://dequeuniversity.com/rules/axe/4.0/scrollable-region-focusable
+
+**Links & Resources**
+
+- https://www.tpgi.com/short-note-on-improving-usability-of-scrollable-regions/
+
 ### Skeletons
 
 **Links & Resources**
