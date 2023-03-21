@@ -469,7 +469,7 @@ This section contains information around specific components and how they might 
 
 **Links & Resources**
 
-- https://w3c.github.io/aria-practices/#dialog_modal
+- https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/
 - https://www.tpgi.com/the-current-state-of-modal-dialog-accessibility/
 - https://www.scottohara.me/blog/2019/03/05/open-dialog.html
 - https://www.youtube.com/watch?v=JS68faEUduk
