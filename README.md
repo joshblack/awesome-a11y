@@ -71,6 +71,7 @@
 - https://sarahmhigley.com/
 - https://www.scottohara.me/
 - https://tink.uk/
+- https://www.a11yproject.com/
 - https://inclusive-components.design/
 
 **Tools**
