@@ -195,6 +195,16 @@ When authoring focus styles, in particular with `box-shadow`, it's important to 
 - https://polypane.app/blog/forced-colors-explained-a-practical-guide/
 - https://www.smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/
 
+### Prefers reduced motion
+
+A user may enable a setting on their device to minimize the amount of non-essential motion. This can be detected using the [`prefers-reduced-motion`](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion) CSS media feature.
+
+It's important to note that this setting does not necessarily mean that all motion needs to be disabled if `reduce` is set. Instead, this setting represents a spectrum that indicates if a user experiences distraction or nausea from animated content.
+
+**Links & Resources**
+
+- https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/
+
 ### Speech Recognition
 
 > Software that helps to control the device with one's voice
