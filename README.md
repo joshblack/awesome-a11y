@@ -17,6 +17,7 @@
   - [Windows High Contrast Mode](#windows-high-contrast-mode)
     - [Focus styles](#focus-styles)
   - [Forced Colors Mode](#forced-colors-mode)
+  - [Prefers reduced motion](#prefers-reduced-motion)
   - [Speech Recognition](#speech-recognition)
   - [Landmarks](#landmarks)
 - [Patterns](#patterns)
