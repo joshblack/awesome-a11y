@@ -309,6 +309,14 @@ In situations where you would like to communicate why something is conditionally
 
 - https://tink.uk/using-the-aria-current-attribute/
 
+### The `aria-haspopup` attribute
+
+**Links & Resources**
+
+- https://github.com/w3c/aria/issues/1024
+- https://www.matuzo.at/blog/2023/aria-haspopup/
+- https://html5accessibility.com/stuff/2021/02/02/haspopup-haspoop/
+
 ### The `title` attribute
 
 Usage of the `title` attribute is problematic as the information is not exposed in an accessible way. From the HTML Spec:
