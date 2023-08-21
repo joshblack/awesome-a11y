@@ -31,6 +31,7 @@
 - [Attributes](#attributes)
   - [`aria-disabled` vs `disabled`](#aria-disabled-vs-disabled)
   - [The `aria-current` attribute](#the-aria-current-attribute)
+  - [The `aria-haspopup` attribute](#the-aria-haspopup-attribute)
   - [The `title` attribute](#the-title-attribute)
   - [The `placeholder` attribute](#the-placeholder-attribute)
 - [Focus](#focus)
