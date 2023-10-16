@@ -425,6 +425,10 @@ This section contains information around specific components and how they might 
 - Interesting combinations
   - Disabled button plus tooltip
 
+**Links & Resources**
+
+- https://uxdesign.cc/why-you-shouldnt-include-disabled-interaction-elements-in-your-design-system-76a2d4307faf
+
 ### Combobox
 
 **Links & Resources**
