@@ -534,6 +534,7 @@ This section contains information around specific components and how they might 
 - https://www.youtube.com/watch?v=W5YAaLLBKhQ
 - https://adrianroselli.com/2020/01/defining-toast-messages.html
 - https://www.scottohara.me/blog/2019/07/08/a-toast-to-a11y-toasts.html
+- https://sheribyrnehaber.medium.com/designing-toast-messages-for-accessibility-fb610ac364be
 
 ### Pagination
 
