@@ -30,6 +30,7 @@
   - [Visually Hidden](#visually-hidden)
   - [Responsive Type](#responsive-type)
 - [Attributes](#attributes)
+  - [`aria-busy`](#aria-busy)
   - [`aria-disabled` vs `disabled`](#aria-disabled-vs-disabled)
   - [The `aria-current` attribute](#the-aria-current-attribute)
   - [The `aria-haspopup` attribute](#the-aria-haspopup-attribute)
