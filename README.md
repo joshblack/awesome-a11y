@@ -22,6 +22,7 @@
   - [Landmarks](#landmarks)
 - [Patterns](#patterns)
   - [Disclosure](#disclosure)
+  - [Live Regions](#live-regions)
   - [Roving tabindex](#roving-tabindex)
   - [Scrollable regions](#scrollable-regions)
   - [Skeletons](#skeletons)
