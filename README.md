@@ -255,6 +255,14 @@ This section contains information around ways in which a component, or set of co
 - https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/
 - https://adrianroselli.com/2020/05/disclosure-widgets.html
 
+### Live Regions
+
+**Links & Resources**
+
+- https://www.scottohara.me/blog/2022/02/05/are-we-live.html
+- https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/
+- https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/
+
 ### Roving tabindex
 
 **Links & Resources**
