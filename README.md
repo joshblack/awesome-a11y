@@ -307,6 +307,12 @@ Often related to this violation: https://dequeuniversity.com/rules/axe/4.0/scrol
 
 This section contains information around ways in which an attribute may be used on an element in a way that may or may not be problematic.
 
+### `aria-busy`
+
+**Links & Resources**
+
+- https://www.tpgi.com/short-note-on-being-busy/
+
 ### `aria-disabled` vs `disabled`
 
 Generally, having a UI element be `disabled` is unhelpful. It does not indicate why the control is in a disabled state. If possible, find a way to communicate why the current state is invalid and how to remedy it.
