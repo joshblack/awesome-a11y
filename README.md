@@ -26,6 +26,7 @@
   - [Roving tabindex](#roving-tabindex)
   - [Scrollable regions](#scrollable-regions)
   - [Skeletons](#skeletons)
+  - [Skip to content](#skip-to-content)
   - [Text Truncation](#text-truncation)
   - [Visually Hidden](#visually-hidden)
   - [Responsive Type](#responsive-type)
