@@ -286,6 +286,14 @@ Often related to this violation: https://dequeuniversity.com/rules/axe/4.0/scrol
 
 - https://adrianroselli.com/2020/11/more-accessible-skeletons.html
 
+### Skip to content
+
+**Links & Resources**
+
+- https://danburzo.ro/skip-to-content-back-button/
+- https://axesslab.com/skip-links/#update-3-a-comment-from-gov-uk
+- https://github.com/selfthinker/dokuwiki_template_writr/blob/master/js/skip-link-focus-fix.js
+
 ### Text Truncation
 
 **Links & Resources**
