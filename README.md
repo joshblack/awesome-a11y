@@ -480,6 +480,7 @@ This section contains information around specific components and how they might 
 
 **Links & Resources**
 
+- [Adrian Roselli: Talkin' Tables](https://www.youtube.com/watch?v=xaIjHF7FHv8)
 - https://inclusive-components.design/data-tables/
 - https://adrianroselli.com/2017/11/hey-its-still-ok-to-use-tables.html
 - https://tink.uk/how-screen-readers-navigate-data-tables/
