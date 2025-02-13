@@ -624,6 +624,7 @@ This section contains information around specific components and how they might 
 **Links & Resources**
 
 - https://sarahmhigley.com/writing/tooltips-in-wcag-21/
+- https://www.tpgi.com/tooltips-are-presentational/
 - https://github.com/scottaohara/a11y_tooltips
 - https://www.youtube.com/watch?v=lb0_v7D4kbs
 
